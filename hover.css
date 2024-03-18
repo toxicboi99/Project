@@ -1,0 +1,20 @@
+#text{
+
+    text-align: center;
+    color: chocolate;
+    font-size: x-large;
+}
+#text:hover{
+    color: rgb(4, 0, 255);
+    font-size: xx-large;
+}
+
+img{
+    display: block;
+     margin: 0 auto;
+      border-radius: 0% 10%; 
+    
+}
+img:hover{
+    opacity: 60%;
+}
